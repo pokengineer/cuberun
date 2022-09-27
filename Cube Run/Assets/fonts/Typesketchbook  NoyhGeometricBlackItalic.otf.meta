@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 995eeae5aca0bd34daf68411fcec0885
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Noyh Geometric
+  fontNames:
+  - Noyh Geometric
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d0856823ed31e1744b37c7fd1a0cd3e1, type: 3}
+  - {fileID: 12800000, guid: b5a407a59f3a06a40bad95cb90b6e07a, type: 3}
+  - {fileID: 12800000, guid: a7c79e1679087554daf99c92b07ae0e4, type: 3}
+  - {fileID: 12800000, guid: 47f182f7025c1884b8bea8e7aca287cc, type: 3}
+  - {fileID: 12800000, guid: 36a20f5889c17c04f89b3909a6f1d5d9, type: 3}
+  - {fileID: 12800000, guid: 0103a27872fec1743abb122860880bdb, type: 3}
+  - {fileID: 12800000, guid: 81b0e3fa780a9204da8b96120b6d6a79, type: 3}
+  - {fileID: 12800000, guid: 65b97d2bb417ac5499672078e7191266, type: 3}
+  - {fileID: 12800000, guid: e03363fb01d774a4cab7d65acfd2f90c, type: 3}
+  - {fileID: 12800000, guid: f1d8f71cf6b4f024ca18e88f735eb2fe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
